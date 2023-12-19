@@ -16,5 +16,5 @@ FootyFlare is a dynamic and fully responsive website created by a passionate spo
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/FootyFlare.git
+   git clone https://github.com/Prathhm08/FootyFlare.git
 
