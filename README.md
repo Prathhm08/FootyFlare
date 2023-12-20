@@ -12,9 +12,5 @@ FootyFlare is a dynamic and fully responsive website created by a passionate spo
 - **Dynamic Highlights:** Stay updated with the latest moments from the top 5 European football leagues, thanks to RapidAPI integration.
 - **Contact Us:** Connect with fellow enthusiasts easily through the Contact Us page, linked with Formspree.
 
-## Getting Started
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/Prathhm08/FootyFlare.git
-
+## Visit my site here
+https://prathhm08.github.io/FootyFlare/
